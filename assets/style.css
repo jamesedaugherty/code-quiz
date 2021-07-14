@@ -11,5 +11,19 @@ body {
     height: 100vh;
     justify-content: space-around;
     align-items: center;
+    background-color: blanchedalmond;
 }
+
+.view-highscores {
+  display: flex;
+  ;
+}
+#questions-container,
+.answerResponse,
+.final-page-container {
+  display: none;
+  
+}
+
+
 
